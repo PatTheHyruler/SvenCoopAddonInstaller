@@ -7,7 +7,7 @@ Of course, if the archive is not a Sven Co-op map or model, that can cause probl
 The program will attempt to find your Sven Co-op install location on its own, but if it can't find it, you can specify the location yourself.
 
 ## Usage (for Windows users, simplified)
-You can get the latest executable version of the program by going to the [latest release page](https://github.com/PatTheHyruler/sven-coop-installer/releases/latest) and downloading the `sven_installer.exe` file listed there.  
+You can get the latest executable version of the program by going to the [latest release page](https://github.com/PatTheHyruler/SvenCoopAddonInstaller/releases/latest) and downloading the `sven_installer.exe` file listed there.  
 Then you should be able to drag+drop one or more Sven Co-op add-on archive files (probably `*.zip`) onto the executable.
 
 If that doesn't work, you can try using the executable via the command line to customize its behaviour.
