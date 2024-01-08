@@ -1,2 +1,2 @@
 vdf~=3.4
-patool~=1.12
+patool~=2.0.0
