@@ -396,3 +396,4 @@ if __name__ == '__main__':
         parse_args()
     except Exception as e:
         print(e)
+    input("Program finished - Press Enter to dismiss")
